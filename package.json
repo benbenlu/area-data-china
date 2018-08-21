@@ -1,0 +1,17 @@
+{
+  "name": "area-data-china",
+  "version": "0.0.1",
+  "description": "一份完整的省市数据和省市区数据",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "js",
+    "node",
+    "area",
+    "city"
+  ],
+  "author": "benbenlu <1206865274@qq.com>",
+  "license": "ISC"
+}
